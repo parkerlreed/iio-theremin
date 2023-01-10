@@ -8,3 +8,7 @@ pip install pysinewave --user
 ```
 
 Change IIO path accordingly with your hardware. This works out of the box for the Steam Deck.
+
+Demo video
+
+https://www.youtube.com/watch?v=GX_TkHCCzWc
