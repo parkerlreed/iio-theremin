@@ -9,7 +9,7 @@ pip install pysinewave --user
 
 Change IIO path accordingly with your hardware. This works out of the box for the Steam Deck.
 
-One argument is required. Pass in an integer anywhere from 0 to pretty much anything. This determines how fast it transitions between different pitches. Lower the number faster the transition
+One argument is required. Pass in an integer anywhere from 0 to pretty much anything. This determines how fast it transitions between different pitches. Higher the number faster the transition
 
 Demo video
 
